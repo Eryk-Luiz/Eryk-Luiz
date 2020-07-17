@@ -1,5 +1,4 @@
 # Eryk Luiz 👨‍💻 
-Full Stack Web Developer Jr
 
 ![image](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
